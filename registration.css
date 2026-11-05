@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+form {
+    margin: 30px;
+}
