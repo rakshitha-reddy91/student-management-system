@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    background-color: lightyellow;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 10px;
+}
